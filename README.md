@@ -6,9 +6,9 @@ Agentic RAG (Retrieval-Augmented Generation) takes traditional RAG to the next l
 
 ## 🚀 Real-World Use Cases:
 
-- Find top IMDb-rated movies and check their OTT platform availability.
-- Analyze financial transaction data for insights.
+- Find top IMDb-rated movies, get the latest news, and get the summary of article.
+- Analyze financial transaction data and get insights.
 
-## Background:
+## Background& Full details:
 
 - https://medium.com/@dineshraghupatruni/exploring-agentic-rag-a-step-beyond-traditional-rag-402bdb135e6d
