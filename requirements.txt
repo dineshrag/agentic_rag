@@ -1,0 +1,11 @@
+phidata
+openai
+ollama
+lancedb
+tantivy
+sqlalchemy
+python-dotenv
+pandas
+duckduckgo-search
+newspaper4k
+lxml_html_clean
