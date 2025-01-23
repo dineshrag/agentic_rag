@@ -6,3 +6,5 @@ Agentic RAG (Retrieval-Augmented Generation) takes traditional RAG to the next l
   - Find top IMDb-rated movies and check their OTT platform availability.  
   - Analyze financial transaction data for insights.  
 
+## Background:
+  - https://medium.com/@dineshraghupatruni/exploring-agentic-rag-a-step-beyond-traditional-rag-402bdb135e6d
